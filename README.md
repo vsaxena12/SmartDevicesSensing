@@ -1,15 +1,7 @@
 # SmartDevicesSensing
 
-Demonstrate an understanding of the relational data model and the entity-relationship model.
+## Course Description
 
-Demonstrate an understanding of the database design process and theory as well as the ability to
-perform database design. This process includes conceptual design (E-R diagram), logical design based
-on the relational model, table normalization, and internal design.
+-This course aims to provide in-depth coverage of distributed sensing based on smart devices and ubiquitous computing. 
 
-Demonstrate an understanding of basic relational database operations and the ability to use SQL at
-expert level.
-
-Demonstrate the ability to develop application programs on top of database systems.
-
-Demonstrate an understanding of the key components of DBMS, including query processing and
-optimization, transaction management and recovery, concurrency control
+-Fundamentals and state of the art developments, such as various ubiquitous computing systems and smart-sensing applications, human-computer interactions, context-aware systems, internet of things and security/privacy in intelligent systems, will be included. 
