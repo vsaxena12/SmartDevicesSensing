@@ -1,7 +1,19 @@
-# SmartDevicesSensing
+# Step Counter: Final Commit
 
-## Course Description
+## Group NO. and Group members:
+Group 16, Varun Saxena and Junyang Shi
 
--This course aims to provide in-depth coverage of distributed sensing based on smart devices and ubiquitous computing. 
+## Sensors involved in the project:
+Accelerometer and Gyroscope and RGB Light sensor
+Main goal (paragraph):
 
--Fundamentals and state of the art developments, such as various ubiquitous computing systems and smart-sensing applications, human-computer interactions, context-aware systems, internet of things and security/privacy in intelligent systems, will be included. 
+This application focuses on counting the number of steps while walking or running. It uses two main
+sensors, Accelerometer and Gyroscope to monitor the changes and calculates the count of the steps. As
+the person walks, the application will display number of steps the person has taken. RGB Light sensor is used in order to pause and to resume the app running on the Android phone.
+Application scenario design (paragraph):
+
+In this application, we are going to count the number of steps while walking. This project is designed in order to understand the working of sensors on android platform.
+Icon
+
+Image Resource: Google
+https://www.vectorstock.com/royalty-free-vector/foot-icon-vector-10787616
